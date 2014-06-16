@@ -1,0 +1,9 @@
+_Store
+PAJKCardApp/build/*
+*.xcworkspacedata
+*.xccheckout
+xcuserdata
+TestAppDir
+jkcard.xcworkspace
+PAJKCardFramework
+PAJKCardTestApp
