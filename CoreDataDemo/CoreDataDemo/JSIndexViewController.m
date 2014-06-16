@@ -27,6 +27,8 @@
     
     //this is first review
     self.view.backgroundColor = [UIColor grayColor];
+    
+    self.view.backgroundColor = [UIColor clearColor];
 }
 
 
