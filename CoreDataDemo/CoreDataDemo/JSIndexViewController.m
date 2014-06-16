@@ -24,7 +24,9 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    
+    //this is first review
+    self.view.backgroundColor = [UIColor grayColor];
 }
 
 
